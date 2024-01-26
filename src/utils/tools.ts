@@ -521,4 +521,11 @@ export const allTools: Tool[] = [
     key: [],
     subTitle: '倒计时小工具',
   },
+  {
+    label: 'JSON 压缩',
+    tags: [Tags.JSON],
+    path: '/json_minifier',
+    key: [],
+    subTitle: 'JSON 压缩小工具',
+  },
 ];
